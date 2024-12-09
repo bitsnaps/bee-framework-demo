@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "node lesson01.js"
+    "start": "node lesson01.js",
+    "start:demo1": "node lesson01.js",
+    "start:demo2": "node lesson02.js",
+    "start:demo3": "node lesson03.js"
   },
   "dependencies": {
     "bee-agent-framework": "^0.0.50",
